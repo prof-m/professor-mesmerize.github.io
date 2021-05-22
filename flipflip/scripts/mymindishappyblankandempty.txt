@@ -1,0 +1,7 @@
+setBlinkDuration 1000
+setBlinkDelay 200
+setBlinkGroupDelay 1000
+setCaptionDuration 10000
+setCaptionDelay 100
+
+cap My mind is happy, blank, and empty - brainwashing is good for me

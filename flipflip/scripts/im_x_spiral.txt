@@ -1,0 +1,82 @@
+setBlinkDuration 100
+setBlinkDelay 0
+setBlinkGroupDelay 0
+
+setBlinkX -75
+setBlinkY -14
+blink I BLANK
+
+
+setBlinkX -42
+setBlinkY 57
+blink I SUBMIT
+
+
+setBlinkX 20
+setBlinkY 75
+blink I SURRENDER
+
+
+setBlinkX 68
+setBlinkY 34
+blink I OBEY
+
+
+setBlinkX 75
+setBlinkY -30
+blink I'M EMPTY
+
+
+setBlinkX 41
+setBlinkY -75
+blink I'M HELPESS
+
+
+setBlinkX -3
+setBlinkY -74
+blink I'M MINDLESS
+
+
+setBlinkX -30
+setBlinkY -37
+blink I'M OBJECT
+
+
+setBlinkX -24
+setBlinkY 4
+blink I'M PUPPET
+
+
+setBlinkX 1
+setBlinkY 24
+blink I'M EDGING
+
+
+setBlinkX 26
+setBlinkY 15
+blink I'M DROOLING
+
+
+setBlinkX 35
+setBlinkY -9
+blink I'M BRAINWASHED
+
+
+setBlinkX 26
+setBlinkY -27
+blink I'M LOOPED
+
+
+setBlinkX 13
+setBlinkY -28
+blink I'M HYPNOTIZED
+
+
+setBlinkX 8
+setBlinkY -19
+blink I'M MESMERIZED
+
+
+setBlinkX 12
+setBlinkY -14
+blink I'M MINDFUCKED

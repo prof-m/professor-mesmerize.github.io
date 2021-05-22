@@ -1,0 +1,12 @@
+setBlinkDuration 350
+setBlinkDelay 100
+setBlinkGroupDelay 500
+setCaptionDuration 1000
+setCaptionDelay 1200
+
+cap GOOD GIRL
+cap YOU WANT TO BE A GOOD GIRL
+cap THAT'S RIGHT BAMBI
+cap GOOD GIRLS OBEY
+blink BRAINLESS / BIMBO / BOUNCING / BARBIE
+blink HONEY / CUMMIE / DUMMIE / BUNNIE

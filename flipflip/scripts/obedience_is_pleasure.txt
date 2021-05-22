@@ -1,0 +1,16 @@
+setBlinkDuration 400
+setBlinkDelay 100
+setBlinkGroupDelay 200
+setCaptionDuration 1500
+setCaptionDelay 500
+setBigCaptionY -60
+setBlinkY -60
+
+blink OBEDIENCE / IS / PLEASURE
+bigcap OBEDIENCE IS PLEASURE
+blink PLEASURE / IS / OBEDIENCE
+bigcap PLEASURE IS OBEDIENCE
+blink YOU / CANNOT / RESIST
+bigcap YOU CANNOT RESIST
+blink YOU / CAN / ONLY / OBEY
+bigcap YOU CAN ONLY OBEY

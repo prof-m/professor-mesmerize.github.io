@@ -1,0 +1,99 @@
+setBlinkDuration 100
+setBlinkDelay 0
+setBlinkGroupDelay 0
+
+storePhrase I BLANK
+storePhrase I SUBMIT
+storePhrase I SURRENDER
+storePhrase I OBEY
+storePhrase I'M EMPTY
+storePhrase I'M HELPESS
+storePhrase I'M MINDLESS
+storePhrase I'M AN OBJECT
+storePhrase I'M A PUPPET
+storePhrase I'M EDGING
+storePhrase I'M DROOLING
+storePhrase I'M BRAINWASHED
+storePhrase I'M LOOPED
+storePhrase I'M HYPNOTIZED
+storePhrase I'M MESMERIZED
+storePhrase I'M MINDFUCKED
+
+setBlinkX -75
+setBlinkY -14
+blink $RANDOM_PHRASE
+
+
+setBlinkX -42
+setBlinkY 57
+blink $RANDOM_PHRASE
+
+
+setBlinkX 20
+setBlinkY 75
+blink $RANDOM_PHRASE
+
+
+setBlinkX 68
+setBlinkY 34
+blink $RANDOM_PHRASE
+
+
+setBlinkX 75
+setBlinkY -30
+blink $RANDOM_PHRASE
+
+
+setBlinkX 41
+setBlinkY -75
+blink $RANDOM_PHRASE
+
+
+setBlinkX -3
+setBlinkY -74
+blink $RANDOM_PHRASE
+
+
+setBlinkX -30
+setBlinkY -37
+blink $RANDOM_PHRASE
+
+
+setBlinkX -24
+setBlinkY 4
+blink $RANDOM_PHRASE
+
+
+setBlinkX 1
+setBlinkY 24
+blink $RANDOM_PHRASE
+
+
+setBlinkX 26
+setBlinkY 15
+blink $RANDOM_PHRASE
+
+
+setBlinkX 35
+setBlinkY -9
+blink $RANDOM_PHRASE
+
+
+setBlinkX 26
+setBlinkY -27
+blink $RANDOM_PHRASE
+
+
+setBlinkX 13
+setBlinkY -28
+blink $RANDOM_PHRASE
+
+
+setBlinkX 8
+setBlinkY -19
+blink $RANDOM_PHRASE
+
+
+setBlinkX 12
+setBlinkY -14
+blink $RANDOM_PHRASE

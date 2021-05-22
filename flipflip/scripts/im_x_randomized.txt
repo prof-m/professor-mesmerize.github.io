@@ -1,0 +1,23 @@
+setBlinkDuration 100
+setBlinkDelay 100
+setBlinkGroupDelay 0
+
+storePhrase I BLANK
+storePhrase I SUBMIT
+storePhrase I SURRENDER
+storePhrase I OBEY
+storePhrase I'M EMPTY
+storePhrase I'M HELPESS
+storePhrase I'M MINDLESS
+storePhrase I'M OBJECT
+storePhrase I'M PUPPET
+storePhrase I'M EDGING
+storePhrase I'M DROOLING
+storePhrase I'M BRAINWASHED
+storePhrase I'M LOOPED
+storePhrase I'M HYPNOTIZED
+storePhrase I'M MESMERIZED
+storePhrase I'M MINDFUCKED
+
+
+blink $RANDOM_PHRASE

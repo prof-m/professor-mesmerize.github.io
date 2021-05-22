@@ -1,0 +1,7 @@
+setBlinkDuration 300
+setBlinkDelay 100
+setBlinkGroupDelay 500
+setCaptionDuration 500
+setCaptionDelay 250
+
+cap i am a stupid whore

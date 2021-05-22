@@ -1,0 +1,37 @@
+setBlinkDuration 400
+setBlinkDelay 100
+setBlinkGroupDelay 200
+setCaptionDuration 1000
+setCaptionDelay 500
+setBigCaptionY -60
+setCaptionY -60
+setBlinkY -60
+
+bigcap Say "YES"
+bigcap Think "YES"
+bigcap Be "YES"
+cap You don't need to think
+cap You are being programmed
+cap You are programmed
+bigcap Say "YES"
+bigcap Think "YES"
+bigcap Be "YES"
+cap Your body is a toy.
+cap Your body is property.
+cap You are a toy.
+cap You are built to serve.
+cap You are built to please.
+cap You are built to obey.
+bigcap Say "YES"
+bigcap Think "YES"
+bigcap Be "YES"
+cap Accept your programming.
+cap Be programmed and obey.
+
+blink YOU / HAVE / NO / MIND
+blink YOU / HAVE / NO WILL
+blink YOU / ARE / BRAINWASHED
+blink YOU / ARE / PROGRAMMED
+blink YOU / ONLY / DO / AS / YOU / ARE / PROGRAMMED
+blink YOU / ARE / A / MINDLESS / FUCK DOLL
+blink YOU OBEY / YOU OBEY / YOU OBEY
